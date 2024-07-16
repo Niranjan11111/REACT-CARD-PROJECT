@@ -1,0 +1,26 @@
+.card{
+    width: 250px;
+    height: 360px;
+    border: 1px solid rgb(171, 171, 171);
+    border-radius: 10px;
+    padding: 25px;
+    margin-right: 50px;
+    background-color: rgb(171, 171, 171);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .card:hover{
+    box-shadow: 10px 10px 10px rgb(202, 201, 201);
+  
+  
+  }
+  
+  .card h2{
+    font-weight: lighter;
+  }
+  
+  .pfp{
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+  }

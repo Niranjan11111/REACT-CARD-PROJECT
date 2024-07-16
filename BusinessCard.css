@@ -1,0 +1,93 @@
+/* .bpfp{
+    width: 300px;
+    margin-bottom: 0;
+    border-radius: 15px;
+    margin-bottom: 20px;
+  }
+  
+.bTitle{
+    font-size: 1.5em;
+}
+
+.bCard{
+    width: 350px;
+    border: 1px solid rgb(171, 171, 171);
+    border-radius: 10px;
+    padding: 25px;
+    margin-right: 50px;
+    background-color: #23252C;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bCard:hover{
+    box-shadow: 10px 10px 10px rgb(164, 164, 164);
+}
+
+.bCard h1{
+    color: white;
+    margin-bottom: 3px;
+}
+
+.bCard .bDscrp{
+    color: #F3BF99;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.webLink{
+    margin-top: 3px;
+    color:bisque;
+    font-size: 12px;
+}
+
+.lnk-btns .btnlnks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    background-color: azure;
+    margin: 10px;
+
+}
+
+.lnk-btns{
+    display: flex;
+}
+
+.lnk-btns .mail img,.lnkd img{
+    margin-right: 4px;
+}
+
+.lnk-btns .lnkd{
+    background-color: #5093E2;
+    color: #ffffff;
+}
+
+.lnk-btns .mail{
+    background-color: #ffffff;
+}
+
+.about{
+    font-size: 1.2em;
+}
+
+.cntnt{
+    color: #dddddd;
+    font-size: 0.8em;
+}
+
+.abt-cntnt{
+    text-align: left;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8px;
+}
+
+.footer img{
+    width: 25px;
+} */

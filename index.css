@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;  
+  
+  
+  
+.cards{
+  display: flex;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+/* .card{
+  width: 250px;
+  height: 360px;
+  border: 1px solid rgb(171, 171, 171);
+  border-radius: 10px;
+  padding: 25px;
+  margin-right: 50px;
+  background-color: rgb(171, 171, 171);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card:hover{
+  box-shadow: 10px 10px 10px rgb(202, 201, 201);
+
+
+}
+
+.card h2{
+  font-weight: lighter;
+}
+
+.pfp{
+  width: 250px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+} */
+
+/* .bpfp{
+  width: 250px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.bpfp{
+  width: 300px;
+  margin-bottom: 0;
+}
+
+.cards{
+  display: flex;
+  margin-right: 20px;
+}
+
+.bCard{
+  width: 350px;
+  border: 1px solid rgb(171, 171, 171);
+  border-radius: 10px;
+  padding: 25px;
+  margin-right: 50px;
+  background-color: #23252C;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bCard h1{
+  color: white;
+  margin-bottom: 3px;
+}
+
+.bCard .bDscrp{
+  color: #F3BF99;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.webLink{
+  margin-top: 3px;
+  color:bisque;
+  font-size: 12px;
+}
+
+.lnk-btns .btnlnks{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  background-color: azure;
+  margin: 10px;
+
+}
+
+.lnk-btns{
+  display: flex;
+}
+
+.lnk-btns .lnkd{
+  background-color: #5093E2;
+  color: #ffffff;
+}
+
+.lnk-btns .mail{
+  background-color: #ffffff;
+}
+
+.about{
+  font-size: 1.2em;
+}
+
+.cntnt{
+  color: #dddddd;
+  font-size: 0.8em;
+}
+
+.abt-cntnt{
+  text-align: left;
+
+} */
